@@ -1,0 +1,41 @@
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ed:76f1:9186:66aa. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 28 13:16:50.053384 2023] [mpm_winnt:notice] [pid 14500:tid 364] AH00455: Apache/2.4.55 (Win64) configured -- resuming normal operations
+[Tue Feb 28 13:16:50.053384 2023] [mpm_winnt:notice] [pid 14500:tid 364] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Tue Feb 28 13:16:50.053384 2023] [core:notice] [pid 14500:tid 364] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Feb 28 13:16:50.056493 2023] [mpm_winnt:notice] [pid 14500:tid 364] AH00418: Parent: Created child process 14604
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ed:76f1:9186:66aa. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ed:76f1:9186:66aa. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 28 13:16:50.331924 2023] [mpm_winnt:notice] [pid 14604:tid 356] AH00354: Child: Starting 64 worker threads.
+[Tue Feb 28 13:41:21.196751 2023] [mpm_winnt:notice] [pid 14500:tid 364] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Feb 28 13:41:23.204930 2023] [mpm_winnt:notice] [pid 14604:tid 356] AH00364: Child: All worker threads have exited.
+[Tue Feb 28 13:41:23.248112 2023] [mpm_winnt:notice] [pid 14500:tid 364] AH00430: Parent: Child process 14604 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ed:76f1:9186:66aa. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 28 13:41:37.700525 2023] [mpm_winnt:notice] [pid 8460:tid 316] AH00455: Apache/2.4.55 (Win64) configured -- resuming normal operations
+[Tue Feb 28 13:41:37.700525 2023] [mpm_winnt:notice] [pid 8460:tid 316] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Tue Feb 28 13:41:37.700525 2023] [core:notice] [pid 8460:tid 316] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Feb 28 13:41:37.706418 2023] [mpm_winnt:notice] [pid 8460:tid 316] AH00418: Parent: Created child process 18044
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ed:76f1:9186:66aa. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ed:76f1:9186:66aa. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 28 13:41:38.033837 2023] [mpm_winnt:notice] [pid 18044:tid 400] AH00354: Child: Starting 64 worker threads.
+[Tue Feb 28 13:43:00.375009 2023] [mpm_winnt:notice] [pid 8460:tid 316] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Feb 28 13:43:02.394198 2023] [mpm_winnt:notice] [pid 18044:tid 400] AH00364: Child: All worker threads have exited.
+[Tue Feb 28 13:43:02.434567 2023] [mpm_winnt:notice] [pid 8460:tid 316] AH00430: Parent: Child process 18044 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ed:76f1:9186:66aa. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 28 13:43:05.174465 2023] [mpm_winnt:notice] [pid 13428:tid 332] AH00455: Apache/2.4.55 (Win64) PHP/8.2.3 configured -- resuming normal operations
+[Tue Feb 28 13:43:05.174465 2023] [mpm_winnt:notice] [pid 13428:tid 332] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Tue Feb 28 13:43:05.174465 2023] [core:notice] [pid 13428:tid 332] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Feb 28 13:43:05.180112 2023] [mpm_winnt:notice] [pid 13428:tid 332] AH00418: Parent: Created child process 6416
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ed:76f1:9186:66aa. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ed:76f1:9186:66aa. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 28 13:43:05.515663 2023] [mpm_winnt:notice] [pid 6416:tid 332] AH00354: Child: Starting 64 worker threads.
+[Tue Feb 28 13:44:56.277582 2023] [php:error] [pid 6416:tid 1312] [client ::1:54889] PHP Parse error:  syntax error, unexpected token ":", expecting "," or ";" in C:\\Server\\Apache24\\htdocs\\index.php on line 2
+[Tue Feb 28 14:03:25.783834 2023] [mpm_winnt:notice] [pid 13428:tid 332] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Feb 28 14:03:27.808042 2023] [mpm_winnt:notice] [pid 6416:tid 332] AH00364: Child: All worker threads have exited.
+[Tue Feb 28 14:03:27.868785 2023] [mpm_winnt:notice] [pid 13428:tid 332] AH00430: Parent: Child process 6416 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ed:76f1:9186:66aa. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 28 14:03:31.143967 2023] [mpm_winnt:notice] [pid 11576:tid 340] AH00455: Apache/2.4.55 (Win64) PHP/8.2.3 configured -- resuming normal operations
+[Tue Feb 28 14:03:31.143967 2023] [mpm_winnt:notice] [pid 11576:tid 340] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Tue Feb 28 14:03:31.143967 2023] [core:notice] [pid 11576:tid 340] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Feb 28 14:03:31.148926 2023] [mpm_winnt:notice] [pid 11576:tid 340] AH00418: Parent: Created child process 4480
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ed:76f1:9186:66aa. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ed:76f1:9186:66aa. Set the 'ServerName' directive globally to suppress this message
